@@ -1,0 +1,947 @@
+[
+ {
+   "No": 1,
+   "Lokasi": "SMPN 62",
+   "Alamat": "Gunung Anyar, Surabaya City, East Java 60294",
+   "Lintang": -7.341877,
+   "Bujur": 112.794837
+ },
+ {
+   "No": 2,
+   "Lokasi": "SMPN 53",
+   "Alamat": "Jl. Kendung, Sememi, Kec. Benowo, Kota SBY, Jawa Timur 60198",
+   "Lintang": -7.256063,
+   "Bujur": 112.634737
+ },
+ {
+   "No": 3,
+   "Lokasi": "SMPN 29",
+   "Alamat": "Kantor PDAM Kota Surabaya, Jl. Gubeng Masjid No.33, Pacar Keling, Kec. Tambaksari, Kota SBY, Jawa Timur 60131",
+   "Lintang": -7.266117,
+   "Bujur": 112.754187
+ },
+ {
+   "No": 4,
+   "Lokasi": "SDN Kedung Cowek",
+   "Alamat": "Jl. Kedung Cowek, Kedung Cowek, Kec. Bulak, Kota SBY, Jawa Timur 60125",
+   "Lintang": -7.218826,
+   "Bujur": 112.777542
+ },
+ {
+   "No": 5,
+   "Lokasi": "SDN Dr SOETOMO 5",
+   "Alamat": "Jl. Trunojoyo No.84, DR. Soetomo, Kec. Tegalsari, Kota SBY, Jawa Timur 60264",
+   "Lintang": -7.285792,
+   "Bujur": 112.735176
+ },
+ {
+   "No": 6,
+   "Lokasi": "SDN KANDANGAN 1",
+   "Alamat": "Jl. Raya Kandangan No.28 - 30, Kandangan, Kec. Benowo, Kota SBY, Jawa Timur 60199",
+   "Lintang": -7.252192,
+   "Bujur": 112.651903
+ },
+ {
+   "No": 7,
+   "Lokasi": "SDN BABAT JERAWAT 1",
+   "Alamat": "Jl. Raya Babat Jerawat No.1, Babat Jerawat, Kec. Pakal, Kota SBY, Jawa Timur 60197",
+   "Lintang": -7.240265,
+   "Bujur": 112.625024
+ },
+ {
+   "No": 8,
+   "Lokasi": "SDN DR SOETOMO 1",
+   "Alamat": "Jl. Kupang Segunting III No.12 A, DR. Soetomo, Kec. Tegalsari, Kota SBY, Jawa Timur 60264",
+   "Lintang": -7.276647,
+   "Bujur": 112.733191
+ },
+ {
+   "No": 9,
+   "Lokasi": "SDN SAWAHAN 1",
+   "Alamat": "Jl. Widodaren No.22, Sawahan, Kec. Sawahan, Kota SBY, Jawa Timur 60251",
+   "Lintang": -7.260647,
+   "Bujur": 112.730333
+ },
+ {
+   "No": 10,
+   "Lokasi": "SDN Kalirungkut 1",
+   "Alamat": "Kali Rungkut, Rungkut, Surabaya City, East Java 60293",
+   "Lintang": -7.322851,
+   "Bujur": 112.770282
+ },
+ {
+   "No": 11,
+   "Lokasi": "SDN Tenggilis Mejoyo",
+   "Alamat": "Jl. Raya Jemursari No.232, Tenggilis Mejoyo, Kec. Tenggilis Mejoyo, Kota SBY, Jawa Timur 60237",
+   "Lintang": -7.315767,
+   "Bujur": 112.7543
+ },
+ {
+   "No": 12,
+   "Lokasi": "SDN Pucang Jajar",
+   "Alamat": "Jl. Pucang Jajar No.4 - 6, Kertajaya, Kec. Gubeng, Kota SBY, Jawa Timur 60282",
+   "Lintang": -7.283523,
+   "Bujur": 112.759903
+ },
+ {
+   "No": 13,
+   "Lokasi": "SDN Kaliasin 1",
+   "Alamat": "Jl. Gubernur Suryo No.26, Embong Kaliasin, Kec. Genteng, Kota SBY, Jawa Timur 60271",
+   "Lintang": -7.264192,
+   "Bujur": 112.743589
+ },
+ {
+   "No": 14,
+   "Lokasi": "SDN Ketabang Seruni",
+   "Alamat": "Jalan Seruni No.6, RT.06/RW.09, Ketabang, Genteng, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.254228,
+   "Bujur": 112.746217
+ },
+ {
+   "No": 15,
+   "Lokasi": "SDN Ketabang 1",
+   "Alamat": "Ketabang, Genteng, Surabaya City, East Java",
+   "Lintang": -7.255721,
+   "Bujur": 112.747618
+ },
+ {
+   "No": 16,
+   "Lokasi": "Balai Kota 1",
+   "Alamat": "Jl. Walikota Mustajab No.59, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.260049,
+   "Bujur": 112.745867
+ },
+ {
+   "No": 17,
+   "Lokasi": "Dinas Dinas Perumahan Rakyat dan Kawasan Permukiman, Cipta Karya, dan Tata Ruang (DPRKPCKTR)",
+   "Alamat": "Jl. Taman Surya No.1, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.258861,
+   "Bujur": 112.747279
+ },
+ {
+   "No": 18,
+   "Lokasi": "DPBT",
+   "Alamat": "Jl. Walikota Mustajab, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.258829,
+   "Bujur": 112.74707
+ },
+ {
+   "No": 19,
+   "Lokasi": "Bag. Kesra",
+   "Alamat": "Jl. Jaksa Agung Suprapto No.4, RT.000/RW.00, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.258682,
+   "Bujur": 112.747383
+ },
+ {
+   "No": 20,
+   "Lokasi": "Bag. Perekonomian",
+   "Alamat": "Ketabang, Genteng, Surabaya City, East Java 60272",
+   "Lintang": -7.258779,
+   "Bujur": 112.747264
+ },
+ {
+   "No": 21,
+   "Lokasi": "Dinas Pekerjaan Umum, Bina Marga dan Pematusan (DPUBMP)",
+   "Alamat": "Jl. Jimerto No. 6-8, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.258061,
+   "Bujur": 112.747277
+ },
+ {
+   "No": 22,
+   "Lokasi": "Gedung Jimerto",
+   "Alamat": "Jl. Jimerto No.10, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.257688,
+   "Bujur": 112.747421
+ },
+ {
+   "No": 23,
+   "Lokasi": "Inspektorat",
+   "Alamat": "Jl. Sedap Malam No.5, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.25859,
+   "Bujur": 112.747708
+ },
+ {
+   "No": 24,
+   "Lokasi": "Unit Layanan Pengadaan�(ULP)",
+   "Alamat": "Jl. Sedap Malam No.1, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.258927,
+   "Bujur": 112.74772
+ },
+ {
+   "No": 25,
+   "Lokasi": "Satpol PP",
+   "Alamat": "Jl. Jaksa Agung Suprapto No.4, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.258442,
+   "Bujur": 112.746793
+ },
+ {
+   "No": 26,
+   "Lokasi": "Linmas",
+   "Alamat": "Jl. Jaksa Agung Suprapto No.2, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.258704,
+   "Bujur": 112.746631
+ },
+ {
+   "No": 27,
+   "Lokasi": "SIOLA 1",
+   "Alamat": "Tunjungan St No.1, Genteng, Surabaya City, East Java 60275",
+   "Lintang": -7.256279,
+   "Bujur": 112.737629
+ },
+ {
+   "No": 28,
+   "Lokasi": "Balai Pemuda Gedung Barat dan Timur",
+   "Alamat": "Jl. Gubernur Suryo No.15, Embong Kaliasin, Kec. Genteng, Kota SBY, Jawa Timur 60271",
+   "Lintang": -7.263909,
+   "Bujur": 112.745331
+ },
+ {
+   "No": 29,
+   "Lokasi": "Bappeko",
+   "Alamat": "Jl. Pacar No.8, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.257388,
+   "Bujur": 112.748216
+ },
+ {
+   "No": 30,
+   "Lokasi": "KORIDOR SIOLA",
+   "Alamat": "Siola, Tunjungan St No.1, Genteng, Surabaya City, East Java 60275",
+   "Lintang": -7.256321,
+   "Bujur": 112.737625
+ },
+ {
+   "No": 31,
+   "Lokasi": "Bag. Humas",
+   "Alamat": "Jl. Jimerto No.10, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.258029,
+   "Bujur": 112.746981
+ },
+ {
+   "No": 32,
+   "Lokasi": "Kantor Kecamatan Gunung Anyar",
+   "Alamat": "Jl. Gn. Anyar Tim. No.62, Gn. Anyar, Kec. Gn. Anyar, Kota SBY, Jawa Timur 60294",
+   "Lintang": -7.340965,
+   "Bujur": 112.783115
+ },
+ {
+   "No": 33,
+   "Lokasi": "Taman Balai Kota (Taman Surya)",
+   "Alamat": "Taman Balai Kota Surabaya, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur",
+   "Lintang": -7.260207,
+   "Bujur": 112.74667
+ },
+ {
+   "No": 34,
+   "Lokasi": "Taman Cahaya",
+   "Alamat": "Jalan Raya Pakal, Pakal, Kec. Pakal, Kota SBY, Jawa Timur 60196",
+   "Lintang": -7.241142,
+   "Bujur": 112.625226
+ },
+ {
+   "No": 35,
+   "Lokasi": "Taman Prestasi",
+   "Alamat": "Jl. Ketabang Kali No.6, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.261476,
+   "Bujur": 112.742832
+ },
+ {
+   "No": 36,
+   "Lokasi": "Taman Mundu",
+   "Alamat": "Jl. Juwet, Tambaksari, Kec. Tambaksari, Kota SBY, Jawa Timur 60136",
+   "Lintang": -7.251616,
+   "Bujur": 112.754614
+ },
+ {
+   "No": 37,
+   "Lokasi": "Taman Kebun Bibit Wonorejo",
+   "Alamat": "Kebun Bibit, Jl. Wonorejo, Wonorejo, Rungkut, Surabaya City, East Java 60296",
+   "Lintang": -7.312371,
+   "Bujur": 112.788905
+ },
+ {
+   "No": 38,
+   "Lokasi": "Taman Sejarah",
+   "Alamat": "Jl. Taman Jayengrono No.2-4, Krembangan Sel., Kec. Krembangan, Kota SBY, Jawa Timur 60175",
+   "Lintang": -7.2361,
+   "Bujur": 112.737846
+ },
+ {
+   "No": 39,
+   "Lokasi": "Taman Lansia",
+   "Alamat": "Jl. Kalimantan No.12, Gubeng, Kec. Gubeng, Kota SBY, Jawa Timur 60281",
+   "Lintang": -7.271599,
+   "Bujur": 112.74985
+ },
+ {
+   "No": 40,
+   "Lokasi": "Taman Bungkul 1",
+   "Alamat": "Jl. Taman Bungkul, Darmo, Kec. Wonokromo, Kota SBY, Jawa Timur 60241",
+   "Lintang": -7.291249,
+   "Bujur": 112.739931
+ },
+ {
+   "No": 41,
+   "Lokasi": "Pasar Wiyung",
+   "Alamat": "Jl. Raya Wiyung No.120, Wiyung, Kec. Wiyung, Kota SBY, Jawa Timur 60228",
+   "Lintang": -7.314125,
+   "Bujur": 112.694175
+ },
+ {
+   "No": 42,
+   "Lokasi": "Pasar Penjaringansari",
+   "Alamat": "Jl. Pandugo No.11, Penjaringan Sari, Kec. Rungkut, Kota SBY, Jawa Timur 60296",
+   "Lintang": -7.322315,
+   "Bujur": 112.782168
+ },
+ {
+   "No": 43,
+   "Lokasi": "Pasar Kapas Kerampung",
+   "Alamat": "Jl. Tambak Rejo",
+   "Lintang": -7.248144,
+   "Bujur": 112.758792
+ },
+ {
+   "No": 44,
+   "Lokasi": "Pasar Kapasan",
+   "Alamat": "Jl. Kapasan, Kapasan, Kec. Simokerto, Kota SBY, Jawa Timur 60141",
+   "Lintang": -7.239497,
+   "Bujur": 112.749242
+ },
+ {
+   "No": 45,
+   "Lokasi": "Pasar Keputran Utara",
+   "Alamat": "Utara surabaya, Jl. Keputran Jl. Urip Sumoharjo, Kota SBY, Jawa Timur",
+   "Lintang": -7.274815,
+   "Bujur": 112.743016
+ },
+ {
+   "No": 46,
+   "Lokasi": "Pasar Keputran Selatan",
+   "Alamat": "No., Jl. Dinoyo No.3, Keputran, Kec. Tegalsari, Kota SBY, Jawa Timur 60265",
+   "Lintang": -7.277857,
+   "Bujur": 112.743427
+ },
+ {
+   "No": 47,
+   "Lokasi": "Pasar Kembang",
+   "Alamat": "Jl. Pasar Kembang No.15, RW.02, Wonorejo, Kec. Tegalsari, Kota SBY, Jawa Timur 60263",
+   "Lintang": -7.269685,
+   "Bujur": 112.729002
+ },
+ {
+   "No": 48,
+   "Lokasi": "Pasar Genteng",
+   "Alamat": "Jl. Genteng Besar No.82, Genteng, Kec. Genteng, Kota SBY, Jawa Timur 60275",
+   "Lintang": -7.258624,
+   "Bujur": 112.740408
+ },
+ {
+   "No": 49,
+   "Lokasi": "Pasar Wonokromo",
+   "Alamat": "Jl. Raya Wonokromo No.10, Jagir, Kec. Wonokromo, Kota SBY, Jawa Timur 60243",
+   "Lintang": -7.302052,
+   "Bujur": 112.737156
+ },
+ {
+   "No": 50,
+   "Lokasi": "Pasar Gunung Anyar",
+   "Alamat": "Pasar, Jl. Gn. Anyar Tim., Gn. Anyar, Kec. Gn. Anyar, Kota SBY, Jawa Timur 60294",
+   "Lintang": -7.340921,
+   "Bujur": 112.784489
+ },
+ {
+   "No": 51,
+   "Lokasi": "Pasar Pakis",
+   "Alamat": "Jl. Dr. Soetomo No.184, Darmo, Kec. Wonokromo, Kota SBY, Jawa Timur 60241",
+   "Lintang": -7.285163,
+   "Bujur": 112.730932
+ },
+ {
+   "No": 52,
+   "Lokasi": "Pasar Blauran",
+   "Alamat": "Jl. Kranggan, Tembok Dukuh, Kec. Sawahan, Kota SBY, Jawa Timur 60251",
+   "Lintang": -7.256477,
+   "Bujur": 112.7335
+ },
+ {
+   "No": 53,
+   "Lokasi": "Kolam Renang Jambangan",
+   "Alamat": "Jl. Ketintang Madya VII, Karah, Kec. Jambangan, Kota SBY, Jawa Timur 60232",
+   "Lintang": -7.319661,
+   "Bujur": 112.718823
+ },
+ {
+   "No": 54,
+   "Lokasi": "Gedung Convention Hall",
+   "Alamat": "Jl. Arief Rahman Hakim No.131-133, Keputih, Kec. Sukolilo, Kota SBY, Jawa Timur 60117",
+   "Lintang": -7.289312,
+   "Bujur": 112.783421
+ },
+ {
+   "No": 55,
+   "Lokasi": "Masjid Al-Muhajirin Pemerintah Kota Surabaya",
+   "Alamat": "Jl. Jimerto No.25-27, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.258008,
+   "Bujur": 112.748253
+ },
+ {
+   "No": 56,
+   "Lokasi": "Tugu Pahlawan",
+   "Alamat": "Jl. Pahlawan, Alun-alun Contong, Kec. Bubutan, Kota SBY, Jawa Timur 60174",
+   "Lintang": -7.246313,
+   "Bujur": 112.737834
+ },
+ {
+   "No": 57,
+   "Lokasi": "Taman Hiburan Rakyat (THR)",
+   "Alamat": "Jl. Kusuma Bangsa, Tambaksari, Kec. Tambaksari, Kota SBY, Jawa Timur",
+   "Lintang": -7.252313,
+   "Bujur": 112.752025
+ },
+ {
+   "No": 58,
+   "Lokasi": "Gedung Wanita",
+   "Alamat": "Pucang Sewu, Jl. Kalibokor Selatan No.2, Baratajaya, Kec. Gubeng, Kota SBY, Jawa Timur 60284",
+   "Lintang": -7.287865,
+   "Bujur": 112.761799
+ },
+ {
+   "No": 59,
+   "Lokasi": "KBS",
+   "Alamat": "Darmo, Kec. Wonokromo, Kota SBY, Jawa Timur",
+   "Lintang": -7.296147,
+   "Bujur": 112.738402
+ },
+ {
+   "No": 60,
+   "Lokasi": "STASIUN GUBENG LAMA",
+   "Alamat": "Jl. Stasiun Gubeng No.1, Pacar Keling, Kec. Tambaksari, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.265443,
+   "Bujur": 112.751943
+ },
+ {
+   "No": 61,
+   "Lokasi": "STASIUN GUBENG BARU",
+   "Alamat": "Jl. Gubeng Masjid No.35, Pacar Keling, Kec. Tambaksari, Kota SBY, Jawa Timur 60131",
+   "Lintang": -7.265247,
+   "Bujur": 112.752746
+ },
+ {
+   "No": 62,
+   "Lokasi": "Gelanggang Remaja",
+   "Alamat": "Jl. Bogen I No.53-Q, Ploso, Kec. Tambaksari, Kota SBY, Jawa Timur 60136",
+   "Lintang": -7.250863,
+   "Bujur": 112.756776
+ },
+ {
+   "No": 63,
+   "Lokasi": "Terminal Ampel",
+   "Alamat": "Jl. Pegirian Surabaya, Sidotopo, Kec. Semampir, Kota SBY, Jawa Timur 60151",
+   "Lintang": -7.229322,
+   "Bujur": 112.745874
+ },
+ {
+   "No": 64,
+   "Lokasi": "Terminal Joyoboyo",
+   "Alamat": "Jl. Joyoboyo No. 1, Jawa Timur",
+   "Lintang": -7.298911,
+   "Bujur": 112.73653
+ },
+ {
+   "No": 65,
+   "Lokasi": "RSUD dr. Mohamad Soewandhie",
+   "Alamat": "Jl. Tambak Rejo No.45-47, Tambakrejo, Kec. Simokerto, Kota SBY, Jawa Timur 60142",
+   "Lintang": -7.245935,
+   "Bujur": 112.758014
+ },
+ {
+   "No": 66,
+   "Lokasi": "Puskesmas Ketabang",
+   "Alamat": "Jl. Jaksa Agung Suprapto No 10, Kec. Genteng",
+   "Lintang": -7.258047,
+   "Bujur": 112.746787
+ },
+ {
+   "No": 67,
+   "Lokasi": "DISHUB",
+   "Alamat": "Jalan Dukuh Menanggal No.1, Dukuh Menanggal, Kec. Gayungan, Kota SBY, Jawa Timur 60234",
+   "Lintang": -7.343841,
+   "Bujur": 112.727216
+ },
+ {
+   "No": 68,
+   "Lokasi": "SDN Manukan Kulon 2",
+   "Alamat": "Jl. Manukan Karya No.a1/49, Manukan Kulon, Kec. Tandes, Kota SBY, Jawa Timur 60185",
+   "Lintang": -7.262077,
+   "Bujur": 112.666429
+ },
+ {
+   "No": 69,
+   "Lokasi": "Kelurahan Gading",
+   "Alamat": "Jl. Kenjeran No.424, Gading, Kec. Tambaksari, Kota SBY, Jawa Timur 60135",
+   "Lintang": -7.248217,
+   "Bujur": 112.778364
+ },
+ {
+   "No": 70,
+   "Lokasi": "SDN Kemayoran 1",
+   "Alamat": "Jl. Kemayoran Baru No.88, Kemayoran, Kec. Krembangan, Kota SBY, Jawa Timur 60176",
+   "Lintang": -7.240155,
+   "Bujur": 112.727945
+ },
+ {
+   "No": 71,
+   "Lokasi": "SDN Sumberejo 2",
+   "Alamat": "Jl. Raya Sumberejo, Sumberrejo, Kec. Pakal, Kota SBY, Jawa Timur 60194",
+   "Lintang": -7.226536,
+   "Bujur": 112.606273
+ },
+ {
+   "No": 72,
+   "Lokasi": "SMPN 50",
+   "Alamat": "Jl. Sukomanunggal Blok C No.93",
+   "Lintang": -7.26242,
+   "Bujur": 112.696704
+ },
+ {
+   "No": 73,
+   "Lokasi": "SMPN 14",
+   "Alamat": "Jl. Rejosari, ft, Kec. Pakal, Kota SBY, Jawa Timur 60195",
+   "Lintang": -7.237491,
+   "Bujur": 112.608705
+ },
+ {
+   "No": 74,
+   "Lokasi": "SDN Rangkah 4",
+   "Alamat": "Jl. Kapas Krampung No.47, Rangkah, Kec. Tambaksari, Kota SBY, Jawa Timur 60135",
+   "Lintang": -7.2486,
+   "Bujur": 112.759591
+ },
+ {
+   "No": 75,
+   "Lokasi": "SDN Rangkah 6",
+   "Alamat": "Jl. Kapas Krampung Kelurahan No.49, RT.001/RW.007, Rangkah, Kec. Tambaksari, Kota SBY, Jawa Timur 60135",
+   "Lintang": -7.249042,
+   "Bujur": 112.76009
+ },
+ {
+   "No": 76,
+   "Lokasi": "SDN Rangkah 1",
+   "Alamat": "Jl. Kapas Krampung No.47, Rangkah, Kec. Tambaksari, Kota SBY, Jawa Timur 60135",
+   "Lintang": -7.248744,
+   "Bujur": 112.759427
+ },
+ {
+   "No": 77,
+   "Lokasi": "SDN Medokan Ayu 1",
+   "Alamat": "Jl. Raya Medokan Sawah No.7, Medokan Ayu, Kec. Rungkut, Kota SBY, Jawa Timur 60295",
+   "Lintang": -7.329497,
+   "Bujur": 112.794743
+ },
+ {
+   "No": 78,
+   "Lokasi": "SMPN 6",
+   "Alamat": "Jl. Jawa No.24, Gubeng, Kec. Gubeng, Kota SBY, Jawa Timur 60281",
+   "Lintang": -7.273726,
+   "Bujur": 112.748588
+ },
+ {
+   "No": 79,
+   "Lokasi": "SMPN 2",
+   "Alamat": "Jl. Kepanjen No.1, Krembangan Sel., Kec. Krembangan, Kota SBY, Jawa Timur 60175",
+   "Lintang": -7.242713,
+   "Bujur": 112.735967
+ },
+ {
+   "No": 80,
+   "Lokasi": "SDN Jajar Tunggal 3",
+   "Alamat": "Jl. Raya Menganti No.49, Jajar Tunggal, Kec. Wiyung, Kota SBY, Jawa Timur 60229",
+   "Lintang": -7.314066,
+   "Bujur": 112.699899
+ },
+ {
+   "No": 81,
+   "Lokasi": "SDN Tembok Dukuh 3",
+   "Alamat": "Jl. Asem Jaya III No.2, RW.04, Tembok Dukuh, Kec. Bubutan, Kota SBY, Jawa Timur 60173",
+   "Lintang": -7.249757,
+   "Bujur": 112.71785
+ },
+ {
+   "No": 82,
+   "Lokasi": "SMPN 1",
+   "Alamat": "Jl. Pacar No.4-6, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.257307,
+   "Bujur": 112.747681
+ },
+ {
+   "No": 83,
+   "Lokasi": "SDN Wonorejo",
+   "Alamat": "Jl. Wonorejo No.1, Wonorejo, Kec. Rungkut, Kota SBY, Jawa Timur 60296",
+   "Lintang": -7.311369,
+   "Bujur": 112.797131
+ },
+ {
+   "No": 84,
+   "Lokasi": "SDN Kedungdoro 2",
+   "Alamat": "Kedung Rukem V No.4, Kedungdoro, Kec. Tegalsari, Kota SBY, Jawa Timur 60261",
+   "Lintang": -7.262246,
+   "Bujur": 112.734039
+ },
+ {
+   "No": 85,
+   "Lokasi": "SMPN 22",
+   "Alamat": "Jl. Gayungsari Bar. X No.38, Gayungan, Kec. Gayungan, Kota SBY, Jawa Timur 60235",
+   "Lintang": -7.336504,
+   "Bujur": 112.716787
+ },
+ {
+   "No": 86,
+   "Lokasi": "SDN Sidotopo 4",
+   "Alamat": "Jl. Bolodewo No.46, Sidotopo, Kec. Semampir, Kota SBY, Jawa Timur 60152",
+   "Lintang": -7.232044,
+   "Bujur": 112.749288
+ },
+ {
+   "No": 87,
+   "Lokasi": "SMPN 7",
+   "Alamat": "Jl. Tanjung Sadari No.17, Perak Bar., Kec. Krembangan, Kota SBY, Jawa Timur 60177",
+   "Lintang": -7.223962,
+   "Bujur": 112.729979
+ },
+ {
+   "No": 88,
+   "Lokasi": "SMPN 5",
+   "Alamat": "Jl. Rajawali No.57, Krembangan Sel., Kec. Krembangan, Kota SBY, Jawa Timur 60175",
+   "Lintang": -7.234796,
+   "Bujur": 112.731332
+ },
+ {
+   "No": 89,
+   "Lokasi": "SMPN 43",
+   "Alamat": "Jl. Raden Saleh No.106, Kupang Krajan, Kec. Sawahan, Kota SBY, Jawa Timur 60253",
+   "Lintang": -7.251063,
+   "Bujur": 112.734078
+ },
+ {
+   "No": 90,
+   "Lokasi": "SMPN 3",
+   "Alamat": "Jl. Praban No.3, Genteng, Kec. Genteng, Kota SBY, Jawa Timur 60275",
+   "Lintang": -7.256296,
+   "Bujur": 112.736137
+ },
+ {
+   "No": 91,
+   "Lokasi": "SMPN 4",
+   "Alamat": "Jl. Tanjung Anom No.12, Genteng, Kec. Genteng, Kota SBY, Jawa Timur 60275",
+   "Lintang": -7.256785,
+   "Bujur": 112.735774
+ },
+ {
+   "No": 92,
+   "Lokasi": "SDN Bulak Rukem 1",
+   "Alamat": "Jl. Bulak Rukem Tim. 2 No.2, Bulak, Kec. Bulak, Kota SBY, Jawa Timur 60124",
+   "Lintang": -7.23279,
+   "Bujur": 112.773695
+ },
+ {
+   "No": 93,
+   "Lokasi": "SDN Kenjeran",
+   "Alamat": "Jl. Pantai Kenjeran A No.1, Kenjeran, Kec. Bulak, Kota SBY, Jawa Timur 60123",
+   "Lintang": -7.240346,
+   "Bujur": 112.795371
+ },
+ {
+   "No": 94,
+   "Lokasi": "SDN Pagesangan 1",
+   "Alamat": "Jalan Pagesangan 3 No.426, Pagesangan, Kec. Jambangan, Kota SBY, Jawa Timur 60233",
+   "Lintang": -7.334414,
+   "Bujur": 112.70854
+ },
+ {
+   "No": 95,
+   "Lokasi": "Kantor Kecamatan Sawahan",
+   "Alamat": "Jl Raya Dukuh Kupang No 83A Surabaya",
+   "Lintang": -7.280115,
+   "Bujur": 112.717374
+ },
+ {
+   "No": 96,
+   "Lokasi": "Kantor Kelurahan Simolawang",
+   "Alamat": "Jl. Sidodadi IV No.20, Simolawang, Surabaya",
+   "Lintang": -7.234954,
+   "Bujur": 112.748379
+ },
+ {
+   "No": 97,
+   "Lokasi": "Kecamatan Semampir",
+   "Alamat": "Jl. Sawah Pulo SR I No.2, RT.004/RW.10, Ujung, Kec. Semampir, Kota SBY, Jawa Timur 60155",
+   "Lintang": -7.225158,
+   "Bujur": 112.744445
+ },
+ {
+   "No": 98,
+   "Lokasi": "Depan Kantor Kecamatan Lakarsantri",
+   "Alamat": "Jl. Lakarsantri No.36, Lidah Kulon, Kec. Lakarsantri, Kota SBY, Jawa Timur 60212",
+   "Lintang": -7.303518,
+   "Bujur": 112.63323
+ },
+ {
+   "No": 99,
+   "Lokasi": "SDN Wonokusumo 1",
+   "Alamat": "Jl. Wonokusumo No.1, Wonokusumo, Kec. Semampir, Kota SBY, Jawa Timur 60154",
+   "Lintang": -7.222214,
+   "Bujur": 112.751855
+ },
+ {
+   "No": 100,
+   "Lokasi": "SDN Wonokusumo 6",
+   "Alamat": "Jl. Wonosari Lor Baru No.21, Wonokusumo, Kec. Semampir, Kota SBY, Jawa Timur 60154",
+   "Lintang": -7.217202,
+   "Bujur": 112.754283
+ },
+ {
+   "No": 101,
+   "Lokasi": "SDN Wonokusumo 7",
+   "Alamat": "Jl. Wonosari Lor Baru No.21, Wonokusumo, Kec. Semampir, Kota SBY, Jawa Timur 60154",
+   "Lintang": -7.217381,
+   "Bujur": 112.754273
+ },
+ {
+   "No": 102,
+   "Lokasi": "SMPN 60",
+   "Alamat": "Tanah Kali Kedinding, Kenjeran, Surabaya City, East Java 60129",
+   "Lintang": -7.228301,
+   "Bujur": 112.78002
+ },
+ {
+   "No": 103,
+   "Lokasi": "SDN Jemur Wonosari 1",
+   "Alamat": "Jl. Jemursari Utara II No.10, Jemur Wonosari, Kec. Wonocolo, Kota SBY, Jawa Timur 60237",
+   "Lintang": -7.324302,
+   "Bujur": 112.737853
+ },
+ {
+   "No": 104,
+   "Lokasi": "SDN Jemur Wonosari 3",
+   "Alamat": "Jl. Jemursari Sel. IV No.19, RW.08, Jemur Wonosari, Kec. Wonocolo, Kota SBY, Jawa Timur 60237",
+   "Lintang": -7.325652,
+   "Bujur": 112.740144
+ },
+ {
+   "No": 105,
+   "Lokasi": "SMPN 12",
+   "Alamat": "Jl. Ngagel Kebonsari, Ngagelrejo, Kec. Wonokromo, Kota SBY, Jawa Timur 60245",
+   "Lintang": -7.297933,
+   "Bujur": 112.74456
+ },
+ {
+   "No": 106,
+   "Lokasi": "SDN Sawunggaling 1",
+   "Alamat": "Jl. Bumiharjo No.127, RW.05, Sawunggaling, Kec. Wonokromo, Kota SBY, Jawa Timur 60242",
+   "Lintang": -7.295674,
+   "Bujur": 112.73327
+ },
+ {
+   "No": 107,
+   "Lokasi": "SDN Pakis 3",
+   "Alamat": "Jl. Dukuh Kupang Timur XIII No.36, Pakis, Kec. Sawahan, Kota SBY, Jawa Timur 60256",
+   "Lintang": -7.283993,
+   "Bujur": 112.717798
+ },
+ {
+   "No": 108,
+   "Lokasi": "SDN Warugunung 2",
+   "Alamat": "Gg. Surya No.449, Warugunung, Kec. Karang Pilang, Kota SBY, Jawa Timur 60221",
+   "Lintang": -7.346053,
+   "Bujur": 112.678467
+ },
+ {
+   "No": 109,
+   "Lokasi": "SMPN 21",
+   "Alamat": "Jalan Jambangan IV, Jambangan, Kec. Jambangan, Kota SBY, Jawa Timur 60232",
+   "Lintang": -7.319342,
+   "Bujur": 112.713711
+ },
+ {
+   "No": 110,
+   "Lokasi": "SDN Warugunung 1",
+   "Alamat": "Jl. Mastrip X No.22, Warugunung, Kec. Karang Pilang, Kota SBY, Jawa Timur 60221",
+   "Lintang": -7.349859,
+   "Bujur": 112.666285
+ },
+ {
+   "No": 111,
+   "Lokasi": "SDN Gading 1",
+   "Alamat": "Jl. Kenjeran No.293, Gading, Kec. Tambaksari, Kota SBY, Jawa Timur 60134",
+   "Lintang": -7.245248,
+   "Bujur": 112.769565
+ },
+ {
+   "No": 112,
+   "Lokasi": "SDN Manukan Wetan 4",
+   "Alamat": "Jalan Sikatan Gang Lebar No.1, Manukan Wetan, Kec. Tandes, Kota SBY, Jawa Timur 60185",
+   "Lintang": -7.261023,
+   "Bujur": 112.672138
+ },
+ {
+   "No": 113,
+   "Lokasi": "SDN Manukan Kulon",
+   "Alamat": "Jl. Manukan Rejo Blok 2A, Manukan Kulon, Tandes, Manukan Kulon, Kec. Tandes, Kota SBY, Jawa Timur 60185",
+   "Lintang": -7.26336,
+   "Bujur": 112.664944
+ },
+ {
+   "No": 114,
+   "Lokasi": "SDN Manukan Wetan 1",
+   "Alamat": "Jl. Sikatan III No.41, Manukan Wetan, Kec. Tandes, Kota SBY, Jawa Timur 60185",
+   "Lintang": -7.258824,
+   "Bujur": 112.672136
+ },
+ {
+   "No": 115,
+   "Lokasi": "SDN Tandes Lor",
+   "Alamat": "Jl. Raya Tandes Lor No.94, Tandes Kidul, Kec. Tandes, Kota SBY, Jawa Timur 60187",
+   "Lintang": -7.260975,
+   "Bujur": 112.687686
+ },
+ {
+   "No": 116,
+   "Lokasi": "SDN Tandes Kidul 1",
+   "Alamat": "Jl. Raya Tandes Lor No.94, Tandes Kidul, Kec. Tandes, Kota SBY, Jawa Timur 60186",
+   "Lintang": -7.261487,
+   "Bujur": 112.68719
+ },
+ {
+   "No": 117,
+   "Lokasi": "SDN dr sutomo 7",
+   "Alamat": "Jl. Trunojoyo No.84, DR. Soetomo, Kec. Tegalsari, Kota SBY, Jawa Timur 60264",
+   "Lintang": -7.285703,
+   "Bujur": 112.734941
+ },
+ {
+   "No": 118,
+   "Lokasi": "SMPN 37",
+   "Alamat": "Jl. Kalianyar No.18-20, Kapasari, Kec. Genteng, Kota SBY, Jawa Timur 60273",
+   "Lintang": -7.248548,
+   "Bujur": 112.749639
+ },
+ {
+   "No": 119,
+   "Lokasi": "SDN peneleh",
+   "Alamat": "Jl. Klimbungan I No.15, Peneleh, Kec. Genteng, Kota SBY, Jawa Timur 60274",
+   "Lintang": -7.249577,
+   "Bujur": 112.744914
+ },
+ {
+   "No": 120,
+   "Lokasi": "SMPN 23",
+   "Alamat": "Jl. Kedung Asem Gg. VI No.32, Kedung Baruk, Kec. Rungkut, Kota SBY, Jawa Timur 60298",
+   "Lintang": -7.319836,
+   "Bujur": 112.777896
+ },
+ {
+   "No": 121,
+   "Lokasi": "SDN gunung anyar 273",
+   "Alamat": "Jl. Gn. Anyar Indah, Gn. Anyar, Kec. Gn. Anyar, Kota SBY, Jawa Timur 60294",
+   "Lintang": -7.333268,
+   "Bujur": 112.783377
+ },
+ {
+   "No": 122,
+   "Lokasi": "SDNi Alun-Alun Contong",
+   "Alamat": "Jl. Sulung Sekolahan No.1, Alun-alun Contong, Kec. Bubutan, Kota SBY, Jawa Timur 60174",
+   "Lintang": -7.246714,
+   "Bujur": 112.740599
+ },
+ {
+   "No": 123,
+   "Lokasi": "SDN gubeng 3",
+   "Alamat": "Jl. Gubeng Klingsingan No.64, Gubeng, Kec. Gubeng, Kota SBY, Jawa Timur 60281",
+   "Lintang": -7.269399,
+   "Bujur": 112.753526
+ },
+ {
+   "No": 124,
+   "Lokasi": "SDN Kapasari 5",
+   "Alamat": "Jalan Tambak Dukuh, Jl. Kapasari I No.8, Kapasari, Kec. Genteng, Kota SBY, Jawa Timur 60273",
+   "Lintang": -7.251142,
+   "Bujur": 112.75072
+ },
+ {
+   "No": 125,
+   "Lokasi": "SDN wonorejo 3",
+   "Alamat": "Jl. Wonorejo IV No.54, Wonorejo, Kec. Tegalsari, Kota SBY, Jawa Timur 60263",
+   "Lintang": -7.271731,
+   "Bujur": 112.73228
+ },
+ {
+   "No": 126,
+   "Lokasi": "SDN kertajaya 9",
+   "Alamat": "Jl. Pucang Windu No.1, Kertajaya, Kec. Gubeng, Kota SBY, Jawa Timur 60282",
+   "Lintang": -7.283965,
+   "Bujur": 112.75178
+ },
+ {
+   "No": 127,
+   "Lokasi": "SDN Keputran 1",
+   "Alamat": "l. Dinoyo Sekolahan I No.1, RW.04, Keputran, Kec. Tegalsari, Kota SBY, Jawa Timur 60265",
+   "Lintang": -7.28585,
+   "Bujur": 112.742911
+ },
+ {
+   "No": 128,
+   "Lokasi": "SDN Mojo 3",
+   "Alamat": "Jl. Kalidami III No.1, Mojo, Kec. Gubeng, Kota SBY, Jawa Timur 60285",
+   "Lintang": -7.27581,
+   "Bujur": 112.763911
+ },
+ {
+   "No": 129,
+   "Lokasi": "SDN tambaksari 1",
+   "Alamat": "Jl. Mundu No.35, Tambaksari, Kec. Tambaksari, Kota SBY, Jawa Timur 60136",
+   "Lintang": -7.251477,
+   "Bujur": 112.753913
+ },
+ {
+   "No": 130,
+   "Lokasi": "SDN wonorejo 1",
+   "Alamat": "Jl. Wonorejo II No.88, Wonorejo, Kec. Tegalsari, Kota SBY, Jawa Timur 60263",
+   "Lintang": -7.268155,
+   "Bujur": 112.731837
+ },
+ {
+   "No": 131,
+   "Lokasi": "SDN tegalsari 2",
+   "Alamat": "Jl. Pandegiling I No.6, RT.007/RW.06, Tegalsari, Kec. Tegalsari, Kota SBY, Jawa Timur 60262",
+   "Lintang": -7.273829,
+   "Bujur": 112.738291
+ },
+ {
+   "No": 132,
+   "Lokasi": "SDN gunung anyar tambak",
+   "Alamat": "Jl. Wiguna Tim. XII No.3, Gn. Anyar Tambak, Kec. Gn. Anyar, Kota SBY, Jawa Timur 60294",
+   "Lintang": -7.3372,
+   "Bujur": 112.803629
+ },
+ {
+   "No": 133,
+   "Lokasi": "SDN airlangga 3",
+   "Alamat": "Jl. Karang Menur IV No.19, Airlangga, Kec. Gubeng, Kota SBY, Jawa Timur 60286",
+   "Lintang": -7.275665,
+   "Bujur": 112.760762
+ },
+ {
+   "No": 134,
+   "Lokasi": "Kecamatan Genteng",
+   "Alamat": "Jl. Bkr Pelajar No.43, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur 60272",
+   "Lintang": -7.257723,
+   "Bujur": 112.751818
+ },
+ {
+   "No": 135,
+   "Lokasi": "Kecamatan Jambangan",
+   "Alamat": "Jl. Jambangan Kebon Agung No.2, Jambangan, Kec. Jambangan, Kota SBY, Jawa Timur 60232",
+   "Lintang": -7.321968,
+   "Bujur": 112.713845
+ }
+]
